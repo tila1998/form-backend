@@ -1,0 +1,9 @@
+{
+    "mysql":{
+        "username": "ik024",
+        "password": "ik024",
+        "host": "localhost",
+        "user": "ik024",
+        "db_name": "form_test"
+    }
+}
